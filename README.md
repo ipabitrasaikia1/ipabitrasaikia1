@@ -1,11 +1,11 @@
 <h1 align="left"><img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width="30px"> Hi , &nbsp I'm Pabitra Saikia</h1>
 <h3>A passionate full stack web developer from India , Assam.</h3>
-<h4>Dedicated Full-Stack web developer passionate about learning new
+<h4>Currrently working as a Frontend engineer, passionate about learning new
 things. A good team player. Looking forward to developing
 products that help in making people’s lives better and becoming an integral part
 of an organization that helps me grow.</h4>
 
-🌱 I’m currently learning **Data Structures and Algorithms** and **MERN Stack**.
+🌱 I’m currently learning exploring **Data Structures and Algorithms** and **MERN Stack**.
 
 - 🔭<a href="https://ipabitrasaikia1.github.io/" target="_blank" rel="noopener noreferrer">
   Visit my website
